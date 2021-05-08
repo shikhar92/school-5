@@ -1,0 +1,53 @@
+#contact iframe {
+    width: 100%;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+
+input {
+    background: grey
+}
+
+.achive1 {
+    display: inline-block;
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 15px
+}
+
+.achive1 i {
+    float: right
+}
+
+.movie-text span {
+    color: yellow
+}
+
+.book {
+    cursor: pointer;
+
+}
+
+.img1 {
+    display: inline-block;
+
+}
+
+.p1 {
+    margin-top: 10px;
+}
+
+.modal-body {
+    text-align: center;
+
+}
+
+body {
+    background-color: aqua
+}
